@@ -1,0 +1,14 @@
+{
+  "vcenter": [
+    "Apache Kafka Cluster123"
+  ],
+  "aws": [
+    "apache12"
+  ],
+  "openstack": [
+    "Elasticsearch Cluste212r"
+  ],
+  "gcp": [
+    "Elasticsearch Cluster221"
+  ]
+}
