@@ -1,0 +1,10 @@
+{
+  "name": "SF-test",
+  "type": "terraform",
+  "target_cloud": "aws",
+  "description": "Sample Django guestbook application with elastic apm client integrated",
+  "prerequisites": "",
+  "limitations": "",
+  "logo": null,
+  "dashboard_template": "blank_application"
+}
